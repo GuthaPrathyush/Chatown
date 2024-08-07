@@ -1,7 +1,7 @@
 const Chat = () => {
   return (
     <div className='Chat'>
-      
+      {/* comments */}
     </div>
   )
 }
