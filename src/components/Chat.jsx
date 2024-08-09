@@ -9,7 +9,6 @@ const Chat = (props) => {
   };
 
   const handleSendMessage = () => {
-    
     console.log("Sending message:", inputMessage);
     setInputMessage("");
   };

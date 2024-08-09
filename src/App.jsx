@@ -4,7 +4,6 @@ import Search from './components/Search';
 import Chat from './components/Chat';
 
 function App() {
-
   return (
     <BrowserRouter>
       <Routes>
