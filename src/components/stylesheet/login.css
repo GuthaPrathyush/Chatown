@@ -1,0 +1,21 @@
+.card-ba{
+    min-height: 100vh;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.card{
+    background-color: rgb(244, 240, 235);
+    width:30%;
+    
+}
+.card-link{
+    text-decoration: none;
+}
+
+@media (max-width: 450px) {
+    .card {
+      width: 100%;
+    }
+  }
+
